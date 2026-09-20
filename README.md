@@ -1,4 +1,4 @@
-# PrepGenie AI
+# SkillProbe AI
 
 An AI-powered mock interview tool that reads your resume and asks you personalized technical questions — just like a real interviewer would.
 
